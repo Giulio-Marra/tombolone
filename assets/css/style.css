@@ -11,8 +11,11 @@ body{
     
 }
 .tabel{
-    margin: 10%;
+    margin: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 .newClassDiv{
     background-color: red;
+    color: white;
 }
